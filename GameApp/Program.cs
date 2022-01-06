@@ -27,4 +27,5 @@ namespace GameApp
             gameFlow.Redo();
         }
     }
+    // Am folosit Command Design Pattern.
 }
